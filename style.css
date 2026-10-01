@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Finlandica+Text:ital,wght@0,100..900;1,100..900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+*{
+   margin: 0; 
+    font-family: "Finlandica Text", sans-serif;
+}
+.head{
+    
+    padding: 15px;
+    margin-left: 20px;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 15px;
+
+}
+.link{
+    color: black;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+#first{
+    background-color: azure;
+    display: flex;
+}
+.text{
+    width: 50%;
+    text-align: center;
+    margin-top: 100px;
+}
+.image{
+    width: 50%;
+
+}
+button{
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    margin-top: 40px;
+}
+.fur {
+    margin-left: 105px;
+    margin-top: 30px;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 20px;
+    /* background-color: rgb(193, 235, 235); */
+}
+.text1{
+    width: 50%;    
+}
+#third{
+    margin-top: 40px;
+}
+.form{
+    width: 50%;
+      
+}
+.four{
+background-color: azure;
+display: flex;
+ margin-top: 30px;
+}
+iframe{
+    margin-top: 50px;
+
+}
